@@ -1,23 +1,65 @@
 # Simple Python Text Editor
 
-A basic text editor built with **Python** and **Tkinter**, featuring file open/save functionality, keyboard shortcuts, and a clean interface. This was one of my first solo Python projects!  
+A beginner-friendly Python text editor built with Tkinter, featuring file open/save functionality, keyboard shortcuts, and a clean interface. This was one of my first solo Python projects!
+
+---
 
 ## Features
 
-- Open and edit `.txt` files.
-- Save your work to a file.
-- Keyboard shortcuts:
-  - **Ctrl + O**: Open a file
-  - **Ctrl + S**: Save the file
-- Simple and clean Tkinter interface with buttons for Open and Save.
+* Open and edit `.txt` files.
+* Save your work to a file.
+* Keyboard shortcuts:
+
+  * Ctrl + O -> Open a file
+  * Ctrl + S -> Save the file
+* Simple and clean Tkinter interface with buttons for Open and Save.
+
+---
 
 ## Usage
 
-- Click **Open** to select a `.txt` file to edit.
-- Click **Save** to save your changes (or use **Ctrl + S**).
-- You can also use **Ctrl + O** to quickly open files.
+Opening a file:
+
+* Click the Open button or press Ctrl + O to select a `.txt` file.
+
+Saving a file:
+
+* Click the Save button or press Ctrl + S to save your changes.
+
+> Only `.txt` files are supported.
+
+---
+
+## How to Run
+
+1. Clone the repository
+
+   ```
+   ```
+
+git clone <repository-url>
+
+```
+
+2. Navigate to the project folder
+```
+
+cd <project-folder>
+
+```
+
+3. Run the text editor
+```
+
+python PyTextEditor.py
+
+```
+
+> Make sure you have Python 3.8+ installed.
+
+---
 
 ## Notes
 
-- Only `.txt` files are supported.
-- This is a lightweight, beginner-friendly project perfect for learning Tkinter.
+- Lightweight and beginner-friendly.
+```
