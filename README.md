@@ -35,16 +35,17 @@ Saving a file:
 1. Clone the repository
 
    ```
+   git clone https://github.com/LumivexCodes/PyTextEditor
    ```
 
-git clone <repository-url>
+
 
 ```
 
 2. Navigate to the project folder
 ```
 
-cd <project-folder>
+cd PyTextEditor
 
 ```
 
@@ -62,4 +63,5 @@ python PyTextEditor.py
 ## Notes
 
 - Lightweight and beginner-friendly.
+- Perfect for learning Tkinter and Pyth
 ```
